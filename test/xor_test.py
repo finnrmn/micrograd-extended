@@ -53,5 +53,5 @@ for x, yt in zip(X, y):
 print("")
 # Graph Graph (optional)
 
-from utils.viz import draw_dot
-draw_dot(yp)
+# from utils.viz import draw_dot
+# draw_dot(yp)
